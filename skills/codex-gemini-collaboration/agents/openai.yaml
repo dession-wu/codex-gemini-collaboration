@@ -1,0 +1,6 @@
+interface:
+  display_name: "Codex 与 Gemini Studio 协作"
+  short_description: "用独立方案、真实材料、实施验证和有界复核完成跨模型协作"
+  default_prompt: "使用 $codex-gemini-collaboration，围绕当前项目组织 Codex 与网页版 Gemini Studio 协作，先明确目标与材料，再实施并验证结果。"
+policy:
+  allow_implicit_invocation: true
